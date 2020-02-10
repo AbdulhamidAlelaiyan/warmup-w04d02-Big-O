@@ -51,6 +51,7 @@ function bobIsFirst(people){
   return people[0] == 'bob'
 }
 ```
+</br>
 
 #### #5: `O(n)`
 
