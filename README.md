@@ -17,7 +17,7 @@ function wordOccurrence(word, phrase){
 }
 ```
 
-\n
+</br>
 
 #### #2
 
