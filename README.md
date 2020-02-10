@@ -36,6 +36,8 @@ function bubble_sort(list){
 }
 ```
 
+</br>
+
 #### #3
 ```javascript
 function factorial(n){
@@ -47,6 +49,8 @@ function factorial(n){
 }
 ```
 
+</br>
+
 #### #4
 
 ```javascript
@@ -54,6 +58,8 @@ function bobIsFirst(people){
   return people[0] == 'bob'
 }
 ```
+
+</br>
 
 #### #5
 
@@ -71,6 +77,8 @@ function isPalindrome(input){
 }
 ```
 
+</br>
+
 #### #6
 ```javascript
 function sumOfDivisors(n){
@@ -86,6 +94,9 @@ function sumOfDivisors(n){
 }
 ```
 
+</br>
+
+
 #### #7
 ```javascript
 function printAllNumbersThenSumPairs(numArray){
@@ -99,6 +110,9 @@ function printAllNumbersThenSumPairs(numArray){
   });
 }
 ```
+
+</br>
+
 
 #### #8
 ```javascript
