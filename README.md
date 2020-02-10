@@ -17,6 +17,8 @@ function wordOccurrence(word, phrase){
 }
 ```
 
+\n
+
 #### #2
 
 ```javascript
