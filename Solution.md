@@ -84,6 +84,8 @@ function sumOfDivisors(n){
 }
 ```
 
+</br>
+
 #### #7: `O(n)`
 ```javascript
 function printAllNumbersThenSumPairs(numArray){
